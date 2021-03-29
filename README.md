@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Mike 👋
 
 - 🔭 I’m currently studying at Coder Academy
 - 🌱 I’m currently learning HTML / CSS / Git
