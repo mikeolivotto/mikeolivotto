@@ -3,7 +3,7 @@
 
 - 🔭 Web dev
 - 📫 How to reach me: **mike** *at* **mikeolivotto** (.) com
-- 🌏 Website: [www.mikeolivotto.com](mikeolivotto.com)
+- 🌏 Website: [www.mikeolivotto.com](https://mikeolivotto.com)
 
 ### 🛠 Technologies & Tools
 
